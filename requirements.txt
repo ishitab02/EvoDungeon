@@ -1,0 +1,7 @@
+gradio>=5.0.0
+requests
+python-dotenv
+httpx
+pillow
+huggingface_hub
+# llama-index
