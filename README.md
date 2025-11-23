@@ -14,3 +14,8 @@ tags:
 ---
 
 # EvoDungeon
+
+**Team Members:**
+
+- **[Ishita Bhattacharyya]** - [@ishitab](https://huggingface.co/ishitab)
+- **[Gourang Agarwal]** - [@Gourang1](https://huggingface.co/Gourang1)
